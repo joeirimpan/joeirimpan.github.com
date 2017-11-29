@@ -1,5 +1,0 @@
-[project]
-name = Blog
-
-[servers.ghpages]
-target = ghpages://joeirimpan/joeirimpan.github.com
