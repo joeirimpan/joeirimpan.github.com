@@ -10,5 +10,14 @@
 	<atom:link href="https://www.joeirimpan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Untagged</title>
+      <link>https://www.joeirimpan.com/tags/untagged/</link>
+      <pubDate>Thu, 03 Jan 2019 10:49:41 +0530</pubDate>
+      
+      <guid>https://www.joeirimpan.com/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

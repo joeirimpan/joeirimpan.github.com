@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Joe Irimpan</title>
+		<link>https://www.joeirimpan.com/posts/</link>
+		<description>Recent content in Posts on Joe Irimpan</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 03 Jan 2019 10:49:41 +0530</lastBuildDate>
+		<atom:link href="https://www.joeirimpan.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Getting started with pytest</title>
+			<link>https://www.joeirimpan.com/posts/getting-started-with-pytest/</link>
+			<pubDate>Thu, 03 Jan 2019 10:49:41 +0530</pubDate>
+			
+			<guid>https://www.joeirimpan.com/posts/getting-started-with-pytest/</guid>
+			<description>Untested code = Broken code
+Many a projects have very less or infact no tests just because the fact that maintainer is too lazy to write boilerplate for tests. Its all easy to write tests for a project which already has tests. Python has inbuilt unittest module which is inherently is java port. Arrives pytest. This tool has all the things you need to get started with.
+Lets says we need to test an api</description>
+			<content type="html"><![CDATA[<p>Untested code = Broken code</p>
+
+<p>Many a projects have very less or infact no tests just because the fact that maintainer is too lazy to write boilerplate for tests. Its all easy to write tests for a project which already has tests. Python has inbuilt unittest module which is inherently is java port. Arrives pytest. This tool has all the things you need to get started with.</p>
+
+<p>Lets says we need to test an api</p>
+
+<script type="application/javascript" src="//gist.github.com/joeirimpan/23c0d4645dbd5b985efc32199c970489.js"></script>
+
+<p>Here is the sample code</p>
+
+<script type="application/javascript" src="//gist.github.com/joeirimpan/8723b83da51bedbbaa1244bea293b25a.js"></script>
+
+<p>Awesome right? Now, one might think, ohh you can only replay the cassettes. It can also be used instances where we need to perform live requests to the server or to record new cassette (<a href="http://vcrpy.readthedocs.io/en/latest/usage.html#record-modes">vcr</a>). The idea of naming things as a cassette is so intuitive and very clear.</p>
+
+<p>Okay, what if we have a secret key or authorisation header in the request which we do not want the public to see? vcrpy has even options for that, let it be modifying query params, post data, headers. You can even write your own callback before recording requests or recording responses. Interesting right?</p>
+
+<p>Check <a href="http://vcrpy.readthedocs.io/en/latest/advanced.html#filter-sensitive-data-from-the-request">this</a> out</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

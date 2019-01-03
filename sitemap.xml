@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://www.joeirimpan.com/posts/getting-started-with-pytest/</loc>
+    <lastmod>2019-01-03T10:49:41+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.joeirimpan.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -19,7 +24,19 @@
   </url>
   
   <url>
+    <loc>https://www.joeirimpan.com/posts/</loc>
+    <lastmod>2019-01-03T10:49:41+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.joeirimpan.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.joeirimpan.com/tags/untagged/</loc>
+    <lastmod>2019-01-03T10:49:41+05:30</lastmod>
     <priority>0</priority>
   </url>
   
